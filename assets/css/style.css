@@ -1,40 +1,40 @@
-body{
-    margin:0;
-	padding: 0;
-	overflow-x: hidden;
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
 }
 
 /*NAV-MENU*/
 .nav-menu {
-    background-color: #dc7430;
-    padding: 1px;
-    text-align: right;
-    color: white;
-    padding-right: 22px;
+  background-color: #dc7430;
+  padding: 1px;
+  text-align: right;
+  color: white;
+  padding-right: 22px;
 }
 .nav-menu a {
-    color: white;
-    padding-right: .5rem;
-    font-size: 14px;
+  color: white;
+  padding-right: 0.5rem;
+  font-size: 14px;
 }
 /*NAV*/
 nav {
-    background-color: #dc742f;
-    box-shadow: none;
+  background-color: #dc742f;
+  box-shadow: none;
 }
-nav img{
-    margin: 7px 0px;
+nav img {
+  margin: 7px 0px;
 }
-i{
-    margin: 3px;
+i {
+  margin: 3px;
 }
 
-.dropdown-content{
-    top: -64px;
+.dropdown-content {
+  top: -64px;
 }
 .dropdown-content li a {
-    color: black;
-} 
+  color: black;
+}
 
 /*SECTION ONE*/
 #home {
