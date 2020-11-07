@@ -35,3 +35,15 @@ i{
 .dropdown-content li a {
     color: black;
 } 
+
+/*SECTION ONE*/
+#home {
+  padding-top: 20px;
+  min-height: 450px;
+  background-image: url("../img/bg-home.png");
+  background-color: #000;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: top;
+  background-position-x: center;
+}
