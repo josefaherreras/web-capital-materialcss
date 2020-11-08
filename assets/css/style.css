@@ -215,3 +215,55 @@ i {
     max-width: 100%;
 }
 }
+
+/*SECTION SIX*/
+#testimonios {
+    padding-top: 10%;
+    background-image: url("../img/bg.mancha.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top;
+    background-size: cover;
+}
+
+
+#testimonios .card-container {
+    width: 77%;
+    margin: auto;
+    background-color: #fff;
+    padding: 0 40px 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.075);
+    -webkit-box-shadow: 0 2px 5px rgba(0,0,0,0.075);
+    -moz-box-shadow: 0 2px 5px rgba(0,0,0,0.075);
+    text-align: center;
+}
+  
+  #testimonios .img-testimonio {
+    border-radius: 100px;
+    overflow: hidden;
+    height: 150px;
+    width: 150px;
+    position: relative;
+    margin: auto;
+    top: -60px;
+  }
+  
+  #testimonios  h2 {
+    font-size: 25px;
+    font-weight: 600;
+    color: #333;
+    margin: 0;
+  }
+  #testimonios h4 {
+    font-size: 17px;
+    color: #333333;
+    margin: 10px 0px 20px 0px;
+}
+  #testimonios p {
+    font-size: 14px;
+    color: #666;
+    text-align: justify;
+  }
