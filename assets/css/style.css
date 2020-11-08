@@ -104,3 +104,26 @@ i {
   #que-hacemos img{
       margin-top: 30px;
   }
+
+  /*SECTION FOUR*/
+  #capital{
+    padding: 40px 0px;
+    background-image: url("../img/fondo-g.png"),
+      linear-gradient(to bottom, rgba(254, 198, 132, 1), rgba(254, 134, 93, 1));
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+  }
+
+  #capital h1{
+    text-align: center;
+    padding: 10px;
+    font-size: 42px;
+  }
+
+  #capital .margen-video{
+    width: 80%;
+    margin: auto;
+}
+
+/*SECTION FIVE*/
