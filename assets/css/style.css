@@ -49,6 +49,48 @@ i {
   background-position-x: center;
 }
 
+#home .row{
+    margin-bottom: 0px;
+}
+
+#home .bg-negro {
+    background: rgba(0, 0, 0, 0.6);
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 5px;
+    color: white;
+    font-size: 33px;
+    padding: 4px 16px;
+    padding-right: 1.5rem !important;
+}
+
+#home .bg-blanco {
+    background: rgba(255, 255, 255, 0.6);
+    color: black;
+    font-size: 18px;
+    padding: 4px 16px;
+    padding-right: 1.5rem !important;
+    margin-bottom: 7px;
+}
+#home .btn-ahora {
+    background-color: #dc7430;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    border-radius: 4px;
+    border: 1px solid #dc7430;
+}
+#home .mg-4{
+    margin: 20px 0px;
+}
+#home .mg-l{
+    margin-top:30px;
+}
+#home .mg-m{
+    margin-top: 15px;
+}
+
+
 /*SECTION TWO*/
 #graficos {
   padding: 40px 0px;
@@ -295,6 +337,9 @@ i {
     filter: grayscale(0%);
   }
 
+  .relato .row{
+      margin-bottom: 0px;
+  }
   .relato{
       background-color: #fce4be;
   }
@@ -314,3 +359,24 @@ i {
   }
 
   /*SECTION EIGHT*/
+  #footer{
+      background-color: #353e47;
+      padding: 50px;
+      color:white;
+      text-align: center;
+  }
+  #footer h1 {
+    margin-top: 10px;
+    font-size: 24px;
+  }
+  #footer h1 .underline {
+    text-decoration: underline;
+  }
+
+  #footer button {
+    background-color: #dc742e;
+    border-radius: 0px;
+    border: 1px solid #dc742e;
+    color: white;
+    padding: 0px 80px;
+}
