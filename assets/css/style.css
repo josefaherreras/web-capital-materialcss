@@ -243,12 +243,13 @@ i {
   
   #testimonios .img-testimonio {
     border-radius: 100px;
+    margin: auto;
     overflow: hidden;
     height: 150px;
     width: 150px;
     position: relative;
-    margin: auto;
     top: -60px;
+    text-align: center;
   }
   
   #testimonios  h2 {
@@ -267,3 +268,31 @@ i {
     color: #666;
     text-align: justify;
   }
+
+  /*SECTION SEVEN*/
+  #prensa{
+    padding: 50px 0px;
+}
+  #prensa .titulo h1{
+    padding: 10px;
+    font-size: 50px;
+    text-align: center;
+  } 
+
+  #prensa .flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #prensa img {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+  #prensa img:hover {
+    transition: filter 0.3s ease-in-out;
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+  }
+
+  /*SECTION EIGHT*/
