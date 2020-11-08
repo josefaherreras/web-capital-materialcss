@@ -47,3 +47,39 @@ i {
   background-position-y: top;
   background-position-x: center;
 }
+
+/*SECTION TWO*/
+#graficos {
+  padding: 40px 0px;
+  background-image: url("../img/fondo-g.png"),
+  linear-gradient(to bottom,
+  rgba(254, 198, 132, 1),
+    rgba(254, 134, 93, 1)
+  );
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+}
+
+#graficos .line-white {
+  border-right: 1px solid white;
+  border-left: 1px solid white;
+}
+
+#graficos img{
+    margin-top: 10px;
+}
+
+#graficos h1 {
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 37px;
+}
+
+#graficos p {
+  color: white;
+  font-size: 20px;
+}
