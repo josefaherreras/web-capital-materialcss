@@ -295,4 +295,22 @@ i {
     filter: grayscale(0%);
   }
 
+  .relato{
+      background-color: #fce4be;
+  }
+  .relato .flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .relato img{
+        margin: 46px 0px;
+  }
+  .relato p{
+      text-align: justify;
+  }
+  .relato span {
+    color: #a09788;
+  }
+
   /*SECTION EIGHT*/
