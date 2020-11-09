@@ -1,7 +1,7 @@
 # Proyecto RedCapital
 
 
-Generación de Landing Page 100% Responsive  desde un mockUp basado en AdobeXD, desarrollado con:
+Generación de Landing Page 100% Responsive desde un mockUp basado en AdobeXD, desarrollado con:
 
   - HTML5
   - CSS3 
@@ -9,6 +9,10 @@ Generación de Landing Page 100% Responsive  desde un mockUp basado en AdobeXD, 
   - JavaScript
   - Clases de CSS con gradiant, flexbox
   - material grid
+  
+  Se tomaron algunas referencias del responsive de la página oficial como :
+  - Navbar
+  - Grid 
   
 
 # MockUp Base
